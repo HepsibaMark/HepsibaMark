@@ -21,7 +21,7 @@
 
 | 🧩 LeetCode | 🏅 Badges | 💼 Internships | 🌱 Current Focus |
 |:-----------:|:---------:|:--------------:|:----------------:|
-| **135+ C++ solved** | **50 & 100 Days 2026** | **2 completed** | **DSA • Full-Stack • AI/ML** |
+| **170+ C++ solved** | **50 & 100 Days 2026** | **2 completed** | **DSA • Full-Stack • AI/ML** |
 
 ---
 
