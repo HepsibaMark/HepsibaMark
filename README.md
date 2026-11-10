@@ -23,7 +23,6 @@
 
 I am a B.Tech student in **Artificial Intelligence and Data Science** at **Madras Institute of Technology (MIT Chromepet), Anna University** (2024–2028), based in Chennai, India. I enjoy turning data and ideas into working products, from machine learning models to deployed full-stack applications, with a particular interest in accessibility and real-world impact.
 
-- Academic performance: **CGPA 8.08**
 - Experience: **Data Analyst Intern** at Alfido Tech, **AI Web Development Intern** at InAmigos Foundation (Project Vikas)
 - Practicing data structures and algorithms in **C++** on LeetCode
 
